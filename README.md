@@ -9,7 +9,8 @@ json file found in the app's assets which contains the api details that the prog
 understands (though not very human intelligible).
 
 The script can be used with 
-``` python3 rep.py search '<search term(s) go here>'
+```sh
+python3 rep.py search '<search term(s) go here>'
 ```
 
 Note that most books hosted are Chinese titles. A user can then select a result 
